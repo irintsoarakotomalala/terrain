@@ -1,0 +1,16 @@
+com\example\Terrain\Controller\ProprietaireController.class
+com\example\Terrain\Controller\TerrainController.class
+com\example\Terrain\Repository\ParcelleRepository.class
+com\example\Terrain\modele\Utilisateur.class
+com\example\Terrain\Repository\ProprietaireRepository.class
+com\example\Terrain\Controller\UtilisateurController.class
+com\example\Terrain\modele\Parcelle.class
+com\example\Terrain\Controller\CultureController.class
+com\example\Terrain\modele\Culture.class
+com\example\Terrain\modele\Proprietaire.class
+com\example\Terrain\modele\Terrain.class
+com\example\Terrain\Repository\UtilisateurRepository.class
+com\example\Terrain\Repository\TerrainRepository.class
+com\example\Terrain\Controller\parcelleController.class
+com\example\Terrain\TerrainApplication.class
+com\example\Terrain\Repository\CultureRepository.class
